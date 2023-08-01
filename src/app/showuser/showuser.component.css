@@ -1,0 +1,23 @@
+.container{
+    text-align: center;
+
+}
+.card{
+    width: 1200px;
+    margin-left: 80px;
+    margin-top: 60px;
+}
+table{
+    background-color: aliceblue;
+    table-layout: fixed;
+    width: 1100px;
+    margin-top: 12px;
+    margin-left: 49px;
+    font-size: 19px;
+    font-weight: lighter;
+}
+td{
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}

@@ -1,0 +1,8 @@
+.container{
+    width: 100%;
+}
+.container .card{
+    margin-top: 20px;
+    margin-left: 10px;
+    padding-left: 550px;
+}

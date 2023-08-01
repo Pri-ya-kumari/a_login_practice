@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "anil",
+      "email": "anil@gmail.com",
+      "mobile": "889936622",
+      "Address": "jk colong",
+      "password": "1245"
+    },
+    {
+      "id": 2,
+      "name": "PRIYA KUMARI",
+      "email": "PRIYASINGHNFP@GMAIL.COM",
+      "mobile": "76756444278",
+      "Address": "BHABHA COLONY HANUMAN NAG",
+      "password": "6789"
+    },
+    {
+      "name": "rohan",
+      "email": "rohan@gmail.com",
+      "mobile": "224521342521",
+      "Address": "faridabad",
+      "password": "1245",
+      "id": 3
+    },
+    {
+      "name": "harsh",
+      "email": "Harsha@gmail.com",
+      "mobile": "123456789",
+      "Address": "BHABHA COLONY HANUMAN NAG",
+      "password": "1234",
+      "id": 4
+    },
+    {
+      "name": "riya",
+      "email": "riya@gmail.com",
+      "mobile": "22222222",
+      "Address": "faridabad",
+      "password": "12345",
+      "id": 5
+    },
+    {
+      "name": "kalpana kumari",
+      "email": "kalana@gmail.com",
+      "mobile": "123456789",
+      "Address": "noida",
+      "password": "12345",
+      "id": 6
+    }
+  ],
+  "login": [
+    {}
+  ]
+}
